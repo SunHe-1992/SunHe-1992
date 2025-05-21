@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SunHe-1992</h1>
-<h3 align="center">A coder from China with extraordinary interests in computer science despite having only ordinary abilities</h3>
+<h3 align="center">A coder from China working on Unity mobile game development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=SunHe-1992&label=Profile%20views&color=0e75b6&style=flat" alt="SunHe-1992" /> </p>
 
